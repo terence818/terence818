@@ -1,20 +1,14 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello %Everyone!&fontSize=90)
 
 
 
-<!--
-**terence818/terence818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning on Nest JS.
+- 📫 How to reach me: Instagram: yiexuan.tee | Kuala Lumpur
+- ⚡ Fun fact: INTJ
+
