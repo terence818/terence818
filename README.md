@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning on Nest JS.
+- 🌱 I’m currently learning on Flutter.
 - 📫 How to reach me: Instagram: yiexuan.tee | Kuala Lumpur
 - ⚡ Fun fact: INTJ
 
