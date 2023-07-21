@@ -1,6 +1,6 @@
 # Hello, I'm Yie Xuan 👋
 
-![Your Cover Image](link_to_cover_![9b0bc63a987fbaa2beaa44ba94e105d7](https://github.com/terence818/terence818/assets/61400480/143f1003-63d6-40a2-9fef-305f09ab7657)
+![Your Cover Image](![9b0bc63a987fbaa2beaa44ba94e105d7](https://github.com/terence818/terence818/assets/61400480/143f1003-63d6-40a2-9fef-305f09ab7657)
 image) <!-- Optional: Add a cover image to personalize your profile -->
 
 Welcome to my GitHub profile! I'm Yie Xuan, a passionate mobile app developer based in Selangor, Malaysia. I have a strong affinity for creative thinking and meticulous planning, which I bring to every project I undertake.
