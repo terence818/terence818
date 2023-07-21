@@ -1,7 +1,7 @@
-Hello, I'm [Your Name] 👋
+Hello, I'm Yie Xuan 👋
 Your Cover Image <!-- Optional: Add a cover image to personalize your profile -->
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate mobile app developer based in [Your Location]. I have a strong affinity for creative thinking and meticulous planning, which I bring to every project I undertake.
+Welcome to my GitHub profile! I'm Yie Xuan, a passionate mobile app developer based in Selangor, Malaysia. I have a strong affinity for creative thinking and meticulous planning, which I bring to every project I undertake.
 
 🔧 Technologies & Tools
 Tech Stack <!-- Optional: Add a badge to showcase your tech stack -->
@@ -31,9 +31,9 @@ UI/UX Design: Improving my design skills to create user-friendly and visually ap
 💬 Let's Connect
 I believe that connecting with others is a key aspect of personal and professional growth. I'm always open to making new friends and discussing exciting projects or ideas.
 
-📫 You can reach me via email at [Your Email Address].
-💼 Let's connect on LinkedIn: [Your LinkedIn Profile URL].
-🐦 Follow me on Twitter: [@YourTwitterHandle]
+📫 You can reach me via email at terencetee818@gmail.com.
+💼 Let's connect on LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/terence-tee-86a75b24a/).
+🐦 Follow me on Instagram: https://www.instagram.com/yiexuan.tee/
 🤝 Collaboration
 I'm a strong advocate of teamwork and collaboration. If you have a project idea or need a partner for a coding challenge, feel free to reach out to me. I'm always up for collaborating and bringing great ideas to life.
 
