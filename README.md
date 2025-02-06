@@ -40,7 +40,7 @@ I believe that connecting with others is a key aspect of personal and profession
 
 - 📫 You can reach me via email at terencetee818@gmail.com.
 
-- 💼 Let's connect on LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/terence-tee-86a75b24a/).
+- 💼 Let's connect on LinkedIn: https://www.linkedin.com/in/terence-tee-86a75b24a/
 
 - 🐦 Follow me on Instagram: https://www.instagram.com/yiexuan.tee/
 
